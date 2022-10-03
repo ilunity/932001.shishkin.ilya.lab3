@@ -30,6 +30,10 @@ main {
     margin: 0 auto;
 }
 
+.text {
+    text-align: justify;
+}
+
 footer {
     display: flex;
     justify-content: center;
